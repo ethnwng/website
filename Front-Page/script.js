@@ -1,4 +1,3 @@
-
 const images = document.getElementsByClassName("image");
 
 let globalIndex = 0,
